@@ -10,4 +10,4 @@ I graduated from Berklee College of Music with a Master's in Music Technology an
 - Main stack: JS/TS, Python, React, Node, Flask, Postgres, GraphQL, Mongo
 
 ## Hobbies
-I spend most of my free either playing with my 3yo daughter or playing the Chapman Stick and producing music in Ableton Live (https://rafartmusic.com)
+I spend most of my free time either playing with my 3y/o daughter or playing the Chapman Stick and producing music in Ableton Live (https://rafartmusic.com)
