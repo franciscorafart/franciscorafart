@@ -6,7 +6,7 @@ I graduated from Berklee College of Music with a Master's in Music Technology an
 
 ## Current projects
 - Currently learning: TensorflowJS & WebMIDI
-- Currently working on: Kurku, AI powered body-tracking MIDI controller (https://app.kurku.tech)
+- Currently working on: Kurku, AI powered body-tracking MIDI controller (https://kurku.tech)
 - Main stack: JS/TS, Python, React, Node, Flask, Postgres, GraphQL, Mongo
 
 ## Hobbies
