@@ -7,7 +7,7 @@ I graduated from Berklee College of Music with a Master's in Music Technology an
 ## Current projects
 - Currently learning: TensorflowJS & WebMIDI
 - Currently working on: Kurku, AI powered body-tracking MIDI controller (https://kurku.tech)
-- Main stack: JS/TS, Python, React, Node, Flask, Postgres, GraphQL, Mongo
+- Main stack: JS/TS, Python, React, Node, Flask, Postgres, GraphQL, Mongo, AWS, Docker
 
 ## Hobbies
 I spend most of my free time either playing with my 3y/o daughter or playing the Chapman Stick and producing music in Ableton Live (https://rafartmusic.com)
